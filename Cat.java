@@ -8,7 +8,7 @@ public class Cat extends Pet implements Talkable {
     /**
      *
      * @param mousesKilled the number of mice killed
-     * @param name the name of the cat killing the mice
+     * @param name of the cat killing the mice
      */
     public Cat(int mousesKilled, String name) {
         super(name);
